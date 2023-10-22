@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Valley: Sunset",
+  "Author": "glitched_bot, LiliNyx, KingRhoam",
+  "Version": "1.0.0",
+  "Description": "Stardew Valley: Sunset is a end game mod for Stardew Valley. Current features: ...",
+  "UniqueID": "KingLiliBot.StardewValleySunset",
+  "EntryDll": "StardewValleySunset.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
